@@ -20,6 +20,10 @@ body { font-family: 'Garamond' }
 
 .tiny{font-size: 40%}
 
+.red{color: red}
+
+.blue{color: blue}
+
 .grViz {
   margin-left:auto; margin-right:auto; display:block;
 }
