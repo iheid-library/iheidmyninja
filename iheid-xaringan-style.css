@@ -196,6 +196,12 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
+
+/* Text wrapping for code output */
+pre {
+  white-space: pre-wrap;
+}
+
 /*************************
   Custom classes 
 **************************/
